@@ -1,0 +1,129 @@
+body {
+	background-color: #FFE4E1;
+}
+
+.cabecalho {
+	background-color: #FFD700;
+	color: white;
+	
+	text-align: center;
+	margin: 0px;
+	padding-bottom: 20px;
+	font-size: 25px;
+}
+
+.itens {
+	color: white;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+
+a:hover {
+		color: #FFA500;
+		background-color: white;
+				}
+
+.titulo1 {
+	color: #FF8C00;
+	margin: 0px;
+	border: none;
+	font-size: 30px;
+		}
+
+.conteudo1 {
+	background-color: white;
+	padding: 20px;
+	margin-left: 160px;
+	margin-top: 20px;
+	width: 650px;
+	border: none; ;
+	float: left;
+	}
+
+.conteudo2 {
+	clear: both;
+	background-color: white;
+	padding: 20px;
+	margin-left: 160px;
+	margin-top: 5px;
+	width: 650px;
+	border: solid; ;
+	float: left;
+	}	
+
+.subtitulo {
+	border: none;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+
+.conteudo1-lateral {
+	background-color: white;
+	width: 300px;
+	margin-top: 20px;
+	margin-right: 90px;
+	float: right;
+
+}
+
+.conteudo1-lateral-titulo {
+	color: #4F4F4F;
+	background-color: #C0C0C0;
+	font-size: 20px;
+	padding: 15px;
+	
+}
+
+.conteudo1-lateral-texto {
+	padding: 5px 15px 5px 5px;
+}
+
+.conteudo2-lateral-texto {
+	padding: 0px 15px 5px 5px;
+	border: none;
+	margin-top: -15px;
+}
+
+.links {
+	color: #FFA500;
+}
+
+.links2 {
+	color: #FFA500;
+	font-size: 20px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+.conteudo2-lateral {
+	background-color: white;
+	width: 300px;
+	margin-top: 15px;
+	margin-right: 90px;
+	float: right;
+
+}
+
+.conteudo2-lateral-titulo {
+	color: #4F4F4F;
+	background-color: #C0C0C0;
+	font-size: 20px;
+	padding: 15px;
+	border: none;
+}
+
+.clear {
+	clear: both;
+}
+
+.rodape {
+	background-color: #C0C0C0;
+	color: black;
+	margin-top: 20px;
+	width: 700px;
+	text-align: center;
+	padding: 15px;
+	margin-left: 300px;
+}
